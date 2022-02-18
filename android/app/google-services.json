@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "261360626629",
+    "project_id": "form-ogrenci",
+    "storage_bucket": "form-ogrenci.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261360626629:android:0246cfee098864cfc8f9ac",
+        "android_client_info": {
+          "package_name": "com.example.ogrenci_form"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261360626629-35t71b13dr5pjk2dtvjcdbvtvtf3nr5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0PEpFwswsZErtfCM4CwyL0DI6bGg9ybg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261360626629-35t71b13dr5pjk2dtvjcdbvtvtf3nr5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
